@@ -1,0 +1,121 @@
+body{
+  margin-left: 200px;
+  margin-right: 200px;
+  background-color: #E7F6F2;
+}
+
+
+.ribbonleftcol{
+  margin-left: 200px;
+}
+
+.leftcolumn{
+  margin-top: 15.1em;
+  margin-left: 200px;
+}
+
+
+.skilldecor{
+  background: #95adb8;
+  padding-left:5px;
+  padding-right:5px;
+
+}
+.skillnames{
+  text-align: center;
+}
+.educationheading, .skillsheading{
+  color: #1e81b0;
+}
+.date, .degree{
+  color: #6899b0;
+}
+.gradmarks{
+  padding-left: 80px;
+  padding-top: 35px;
+  color: #6899b0;
+}
+.hsmarks{
+  padding-bottom: 40px;
+  padding-left: 79px;
+  color: #6899b0;
+}
+.smarks{
+  padding-left: 99px;
+  color: #6899b0;
+}
+.myphoto {
+  height: 130px;
+}
+
+.text-beside-photo {
+  font-size: 13px;
+}
+
+.ribbon {
+  background-color: #1e81b0;
+  color: white;
+}
+
+.email {
+  padding-top: 6px;
+  height: 15px;
+}
+
+.emailtext {
+  font-size: 14px;
+}
+
+.location {
+  height: 25px;
+  padding-left: 2px;
+  padding-top: 6px;
+}
+
+.locationtext {
+  font-size: 14px;
+}
+
+.github {
+  height: 22px;
+  padding-top: 4px;
+}
+
+.githubtext {
+  font-size: 14px;
+}
+
+.phone {
+  height: 22px;
+}
+
+.phonetext {
+  font-size: 14px;
+}
+
+.linkedin {
+  height: 22px;
+}
+
+.linkedintext {
+  font-size: 14px;
+}
+
+.table-left {
+  padding-left: 2px;
+  padding-right: 20px;
+}
+
+.table-right {
+  padding-left: 160px;
+  padding-top: 1px;
+  padding-bottom: 37px;
+  margin-left: 25px;
+}
+.about{
+  font-size: 17px;
+}
+
+.short_note{
+  font-size: 18px;
+}
