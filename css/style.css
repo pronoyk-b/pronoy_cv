@@ -1,121 +1,67 @@
 body{
-  margin-left: 200px;
-  margin-right: 200px;
-  background-color: #E7F6F2;
+  background-color: #d7dfe4;
 }
-
-
-.ribbonleftcol{
-  margin-left: 200px;
+.skilltable{
+  border-spacing: 15px;
 }
-
-.leftcolumn{
-  margin-top: 15.1em;
-  margin-left: 200px;
+.bottomtable{
+  margin-left:auto;
+  margin-right: auto;
 }
-
-
-.skilldecor{
-  background: #95adb8;
-  padding-left:5px;
-  padding-right:5px;
-
-}
-.skillnames{
+.skillstyle{
+  padding: 5px;
   text-align: center;
+  border-radius: 10px;
+  border: 2px;
+  border-style: solid;
+  border-color: grey;
+  background-color: #9db8cb;
 }
-.educationheading, .skillsheading{
-  color: #1e81b0;
+.bottomline{
+  background-color: #d7dfe4;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  width: 7%;
+  }
+.bottomcontact{
+  text-align:center;
 }
-.date, .degree{
-  color: #6899b0;
+.marksearstyle{
+  color: grey;
 }
-.gradmarks{
-  padding-left: 80px;
-  padding-top: 35px;
-  color: #6899b0;
+.LEFTRIBBONBLOCK{
+  height: 100%;
+  width: 50%;
 }
-.hsmarks{
-  padding-bottom: 40px;
-  padding-left: 79px;
-  color: #6899b0;
+.RIGHTRIBBONBLOCK{
+  height: 100%;
+  width: 50%;
 }
-.smarks{
-  padding-left: 99px;
-  color: #6899b0;
+.myphoto{
+  height: 120px;
 }
-.myphoto {
-  height: 130px;
+.HEADING{
+  height: 180px;
+  width: 100%;
 }
-
-.text-beside-photo {
-  font-size: 13px;
+.RIBBON{
+  background-color: #3a79a2;
+  height: 125px;
+  width: 100%;
+  display: flex;
 }
-
-.ribbon {
-  background-color: #1e81b0;
-  color: white;
+.LEFTCOLUMN{
+  height: 100%;
+  width: 50%;
 }
-
-.email {
-  padding-top: 6px;
-  height: 15px;
+.RIGHTCOLUMN{
+  height: 100%;
+  width: 50%;
 }
-
-.emailtext {
-  font-size: 14px;
-}
-
-.location {
-  height: 25px;
-  padding-left: 2px;
-  padding-top: 6px;
-}
-
-.locationtext {
-  font-size: 14px;
-}
-
-.github {
-  height: 22px;
-  padding-top: 4px;
+.gridcontainer{
+  padding-top: 5px;
+  display: flex;  /* this is responsible for showin two DIV BLOCKS side by side */
 }
 
-.githubtext {
-  font-size: 14px;
-}
 
-.phone {
-  height: 22px;
-}
-
-.phonetext {
-  font-size: 14px;
-}
-
-.linkedin {
-  height: 22px;
-}
-
-.linkedintext {
-  font-size: 14px;
-}
-
-.table-left {
-  padding-left: 2px;
-  padding-right: 20px;
-}
-
-.table-right {
-  padding-left: 160px;
-  padding-top: 1px;
-  padding-bottom: 37px;
-  margin-left: 25px;
-}
-.about{
-  font-size: 17px;
-}
-
-.short_note{
-  font-size: 18px;
-}
